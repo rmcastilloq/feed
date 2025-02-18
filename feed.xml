@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Noticias de Tecnología</title>
+        <description>Últimas noticias sobre tecnología y innovación.</description>
+        <link>https://www.ejemplo.com</link>
+        <language>es</language>
+        <item>
+            <title>Apple lanza el nuevo iPhone 15 con pantalla plegable</title>
+            <description>Apple ha sorprendido al mundo con el lanzamiento del iPhone 15, que incluye una pantalla plegable y una cámara de 200 megapíxeles.</description>
+            <link>https://www.ejemplo.com/noticia-apple-iphone-15</link>
+            <pubDate>Mon, 10 Oct 2023 12:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
